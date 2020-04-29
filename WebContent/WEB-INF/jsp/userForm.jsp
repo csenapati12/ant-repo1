@@ -12,7 +12,7 @@
 <form:form method="POST" commandName="user">
 	<table>
 		<tr>
-			<td>Please enter yr User Name :</td>
+			<td>Please enter yr User Name :KUSUM</td>
 			<td><form:input path="name" /></td>
 		</tr>
 		<tr>
